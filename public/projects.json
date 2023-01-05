@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "img": "https://i.ibb.co/zsDz4Hb/toolkits.jpg",
+        "img1": "https://i.ibb.co/bRR08z8/toolkits-1.png",
+        "img2": "https://i.ibb.co/r2sXXqP/toolkits-2.png",
+        "img3": "https://i.ibb.co/TbWrrTr/toolkits-3.png",
+        "name": "ToolKits",
+        "description": "ToolKits website is a parts or tools of many kind of products based website. It's a kind of shop management system. Here user can sign in freely with user email account and can create their own profile. User can see all product's details, User also know about the new arrival products, can order the products as their needs, also can cancel their order and can payment as of their desired orders. User can see inventory items and new arrival items. Also user will see the company policy, services, new arrivals products's offers, company features, Testimonials of the Clients reviews, clients can add their review, and the Business summary of ToolKits Ltd. On the other hand, Admin panel can also Visit and update their profile. Admin will see all the orders, they can manage the orders, and they can also make someone a admin.",
+        "details": [
+            {"step": "For UI design, I use React-router-dom, Tailwind CSS, Daisy UI, Vanilla CSS, Daisy UI icons."},
+            {"step": "For authentication, password rest and email verified I use Firebase authentication and React-firebase-hooks. Also use react-firebase-hooks for get logged in users information such as display name, email etc. I also use Firebase hosting for client side hosting. I also use React-form and html form."},
+            {"step": "In this project I use React-router for Routing. And I also use dynamic routing. I create a dashboard with nested-route."},
+            {"step": "Also use react-toastify for toast, use axios for fetching data server side to client side and client side to server side, use heroku for hosting server side."},
+            {"step": "I use stripe to make payment method. I have added the method of pay with Master Card, Debit Card, Transaction id etc."}
+        ],
+        "githubClient": "https://github.com/programming-hero-web-course1/manufacturer-website-client-side-SuraiyaAkterTrishna",
+        "githubServer": "https://github.com/programming-hero-web-course1/manufacturer-website-server-side-SuraiyaAkterTrishna",
+        "link": " https://toolkits-c33e4.web.app/",
+        "tools": "● React.js ● React TailwindCSS ● DaisyUI ● React Router ● React Firebase Hooks ● Firebase ● Node.js ● MongoDB atlas ● Express.js ● Firebase Authentication ● React toastify ● Stripe ● JWT token ● Firebase Hosting"
+    },
+    {
+        "id": 2,
+        "img": "https://i.ibb.co/qW8tsyw/gadget-zone.jpg",
+        "img1": "https://i.ibb.co/4F4Zq3W/warehouse-management-1.png",
+        "img2": "https://i.ibb.co/qRbFQJH/warehouse-management-2.png",
+        "img3": "https://i.ibb.co/Xs0jPpd/warehouse-management-3.png",
+        "name": "Gadget Zone",
+        "description": "Gadget Zone website is a warehouse management base website. Here user can sign in freely with user email account. User can see inventory items and new arrival items. Also user can add new inventory item that can show in inventory items section. Also user can manage those inventory items on manage inventory page.Such as delivery items and restock items. Here also an extra Manage Inventories button that can take users to the manage inventory page. In this manage inventory page user can show all inventory items with delete button. Here user can delete any inventory items. There are also my items route that the logged-in user can see only his/her added items. Here also user can delete his/her inventory items.",
+        "details": [
+            {"step": "---For UI design, i use react-bootstrap, bootstrap 5 and vanilla CSS and react-fontawesome. Here user stock electronic items, delivered items, add new item and manage those items."},
+            {"step": "For authentication, password rest and email verified i use firebase authentication and react-firebase-hooks. Also use react-firebase-hooks for get logged in users information such as display name, email etc. i also use firebase hosting for client side hosting."},
+            {"step": "In this project i use react-router for routing. And I also use dynamic routing."},
+            {"step": "Also use react-toastify for toast, use axios for fetching data server side to client side and client side to server side, use heroku for hosting server side."},
+            {"step": "I use mongoDB for store data in server side. Here i create some api for store inventory items detail, add new inventory item, update items quantity, store user email, delete inventory item, load all inventory items in client side."}
+        ],
+        "githubClient": "https://github.com/ProgrammingHeroWC4/warehouse-management-client-side-SuraiyaAkterTrishna",
+        "githubServer": "https://github.com/ProgrammingHeroWC4/warehouse-management-server-side-SuraiyaAkterTrishna",
+        "link": "https://warehouse-management-b4b0c.web.app/",
+        "tools": "● React.js ● React Bootstrap ● React Router ● React Firebase Hooks ● Firebase ● Node.js ● MongoDB atlas ● Express.js ● Firebase Authentication ● React toastify ● JWT token ● Firebase Hosting"
+    },
+    {
+        "id": 3,
+        "img": "https://i.ibb.co/4PzdSdf/health.jpg",
+        "img1": "https://i.ibb.co/WcDxLZv/health-coach-1.png",
+        "img2": "https://i.ibb.co/hZr7Ysq/health-coach-2.png",
+        "img3": "https://i.ibb.co/h9BKgtM/health-coach-3.png",
+        "name": "Health Coach",
+        "description": "Users can see a responsive navbar and image slider of health coach service provider website.Login and Registration with Email and Password Auth and also a Social Login System with Google Accounts. Login and Logout appear according to log in at the header.Email verification for login",
+        "details": [
+            {"step": "Responsive Navbar in Header Component, Image slider and Responsive Card in Home Component and Services Component. And also a Footer with dynamic current year."},
+            {"step": "A private/protected route in a button of Services Component that goes to Checkout."},
+            {"step": "Login and Registration with Email and Password Auth and also a Social Login System with Google Accounts."},
+            {"step": "Email verification for login and Reset for Forget Password. Display the error messages for when user email and password don't match and also showing login related error message."},
+            {"step": "In Header component, Login and Password appear according with login."},
+            {"step": "React Router set and 404 page Not found route handle."}
+        ],
+        "githubClient": " https://github.com/programming-hero-web-course-4/independent-service-provider-SuraiyaAkterTrishna",
+        "link": "https://health-coach-372bc.firebaseapp.com/",
+        "tools": "● React.js ● HTML5 ● CSS3 ● React Bootstrap ● React Router Dom ● Firebase Authentication ● Custom Firebase Auth Hooks ● React Toastify ● Firebase Hosting"
+    },
+    {
+        "id": 4,
+        "img": "https://i.ibb.co/D1g7Ds2/plant-paradise-1.png",
+        "img1": "https://i.ibb.co/D1g7Ds2/plant-paradise-1.png",
+        "img2": "https://i.ibb.co/xCkRJt5/plant-paradise-2.png",
+        "img3": "https://i.ibb.co/vXjmQhp/plant-paradise-3.png",
+        "name": "Plant Paradise",
+        "description": "Send a living gift to someone important with plant delivery. Whether it’s a tropical orchid, a desert succulent, or something else, plants bring life to any space.",
+        "details": [
+            {"step": "First create a react app that name is 'Plant Paradise' and install react router, font-awesome, recharts."},
+            {"step": "Then create Header, Home, Reviews, Dashboard, Blogs, About, NotFound, Review component and route them."},
+            {"step": "create plant.json file and show data home and reviews component dynamically."},
+            {"step": "In Dashboard component added 4 types of chart from data.json file."},
+            {"step": "At last, in Blogs component added answers in two different type of question."}
+        ],
+        "githubClient": "https://github.com/programming-hero-web-course-4/product-analysis-website-SuraiyaAkterTrishna",
+        "link": "https://plant-paradise.netlify.app/",
+        "tools": "● React.js ● HTML5 ● CSS3 ● React Bootstrap ● GitHub ● Netlify ● Rechart ● Figma ● React Router Dom"
+    },
+    {
+        "id": 5,
+        "img": "https://i.ibb.co/VmYgb9B/influencer-gear-1.png",
+        "img1": "https://i.ibb.co/VmYgb9B/influencer-gear-1.png",
+        "img2": "https://i.ibb.co/tbCHzZ7/influencer-gear-2.png",
+        "img3": "https://i.ibb.co/dPY47R5/influencer-gear-3.png",
+        "name": "Rainy Convention Center",
+        "description": "Youths must have a safe space to visit and take part in new activities. Community centres provide classes and events such as creative.",
+        "details": [
+            {"step": "Users can see a responsive navbar and image slider of Rainy Convention Center website."},
+            {"step": "Users choose there suitable package"},
+            {"step": "Users also see frequently asked questions"}
+        ],
+        "githubClient": "https://github.com/Porgramming-Hero-web-course/convention-center-SuraiyaAkterTrishna",
+        "link": "https://rainy-convention-center.netlify.app/",
+        "tools": "● HTML5 ● CSS3 ● Bootstrap ● GitHub ● Netlify ● Figma"
+    }
+]
